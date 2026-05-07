@@ -1,2 +1,2 @@
 # trading-agent
-agent for constant trading
+agent for passive stock trading
